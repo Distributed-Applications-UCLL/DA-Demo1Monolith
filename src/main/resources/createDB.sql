@@ -183,7 +183,7 @@ INSERT INTO menu_item (id, name, price, restaurant_id)
 VALUES (6, 'Bacon Burger', 13.50, 2);
 
 INSERT INTO menu_item (id, name, price, restaurant_id)
-VALUES (7, 'Salmon Sushi', 14.00, 3);
+VALUES (7, 'Salmon Sushi', 13.50, 3);
 
 INSERT INTO menu_item (id, name, price, restaurant_id)
 VALUES (8, 'California Roll', 11.50, 3);
